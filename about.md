@@ -1,5 +1,5 @@
 ---
-layout: front
+layout: theme: just-the-docs
 title: About
 permalink: /about/
 ---
